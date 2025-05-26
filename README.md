@@ -31,10 +31,6 @@ This frontend provides `.phx` generation, agent logic, and IP-protected runtime 
 
 ---
 
-https://github.com/NRMLC-Hub/Ai-Superconductivity-Recursive-Compute/blob/main/ULTRACORE-SPU_WhitePaper_Draft_v3_PROTECTED.docx
-
----
-
 ## Contact
 
 **Martin Bradford Hovsepian Jr.**  
