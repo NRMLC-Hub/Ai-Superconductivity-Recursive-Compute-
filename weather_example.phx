@@ -1,0 +1,8 @@
+# NRMLC DEMO AGENT — Weather-Driven Decision
+
+:: MEMORY ::
+weather -> sunny
+location -> park
+
+:: GOAL ::
+IF(weather -> sunny): ACTION(go_for_walk, park)
