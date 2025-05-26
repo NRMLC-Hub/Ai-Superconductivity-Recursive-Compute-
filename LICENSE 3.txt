@@ -1,0 +1,9 @@
+Copyright © 2025 Martin Bradford Hovsepian Jr.
+All rights reserved.
+
+This repository and its contents are protected under international copyright law.
+
+Unauthorized reproduction, distribution, or derivation of any part of this system — including symbolic logic methods, agent architecture, memory modeling, or hardware schematics — is strictly prohibited without explicit written permission.
+
+For licensing inquiries, contact:
+nestingrealmsmodel@gmail.com
