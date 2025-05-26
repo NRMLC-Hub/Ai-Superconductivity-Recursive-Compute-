@@ -1,0 +1,16 @@
+# NRMLC DEMO AGENT — Sandwich Assembly
+
+:: MEMORY ::
+bread -> slice
+tools -> knife
+ingredients -> {peanut_butter, jelly}
+plate -> surface
+
+:: GOAL ::
+GATHER({bread, peanut_butter, jelly, knife})
+PLACE(slice1, plate)
+PLACE(slice2, plate)
+SPREAD(peanut_butter, slice1, using=knife)
+SPREAD(jelly, slice2, using=knife)
+COMBINE(slice1, slice2)
+RESULT: sandwich -> ready_to_eat
