@@ -1,0 +1,10 @@
+# NRMLC DEMO AGENT — Dog Park Readiness Check
+
+:: MEMORY ::
+dog -> vaccinated
+dog -> socialized
+dog -> ready_to_play
+
+:: GOAL ::
+IF(dog -> vaccinated AND dog -> socialized): ENTER(dog_park)
+IF(dog -> ready_to_play): BRING({poop_bags, water})
