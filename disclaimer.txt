@@ -1,0 +1,16 @@
+NRMLC is a protected symbolic logic system.
+
+This repository contains a limited public demonstration of its semantic interface and emulator functions.
+
+All core engine logic, phase coherence mechanisms, symbolic memory models, and hardware schematics remain proprietary and are withheld from public release.
+
+Use of this repository is strictly limited to:
+- Educational demonstration
+- Public timestamping of invention
+- Non-commercial evaluation
+
+Redistribution or reverse engineering is expressly prohibited.
+
+All rights reserved © 2025  
+Martin Bradford Hovsepian Jr.  
+nestingrealmsmodel@gmail.com
