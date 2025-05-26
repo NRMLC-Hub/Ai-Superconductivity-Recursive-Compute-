@@ -26,8 +26,7 @@ This repository documents the **ULTRACORE-SPU**, a room-temperature symbolic sup
 ## Related Repository
 
 Explore the **symbolic parser, demo agents, and emulator** in the companion repo:  
-**→ [NRMLC-Semantic-Core](https://github.com/yourusername/NRMLC-Semantic-Core)**
-
+**→ → [NRMLC-Overview](https://github.com/NRMLC-Hub/NRMLC-Overview)]
 This frontend provides `.phx` generation, agent logic, and IP-protected runtime stubs.
 
 ---
