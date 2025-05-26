@@ -6,7 +6,7 @@ This repository documents the **ULTRACORE-SPU**, a room-temperature symbolic sup
 
 ## Contents
 
-- `ULTRACORE-SPU_WhitePaper_Draft_v3.docx` — Finalized concept document
+- `ULTRACORE-SPU_WhitePaper_Draft_v3_PROTECTED.docx` — Finalized concept document
 - `SPU-SC_Schematic.png` — Core schematic illustrating the SPU symbolic core and spiral coherence bus
 - `LICENSE.txt` — IP and usage restrictions
 - `disclaimer.txt` — Disclosure boundaries and research intent
